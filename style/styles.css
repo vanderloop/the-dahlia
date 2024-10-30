@@ -1,0 +1,139 @@
+
+/* 1. basic styling*/
+
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: Meddon, cursive;
+    font-size: 50px;
+    text-align: center;
+    color: #a68150;
+}
+
+h2 {
+    font-family: Meddon, cursive;
+    font-size: 25px;
+    text-align: center;
+    color: #a68150;
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: Meddon, cursive;
+    text-align: center;
+    color: #a68150;
+}
+
+p {
+    margin: 10px auto;
+    max-width: 900px;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+    font-weight: lighter;
+    color: #a68150;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+u:hover {
+    color: #d1ab77;
+}
+
+.nav-list {
+    display: inline;
+}
+
+.navigation {
+    text-align: center;
+    font-size: 30px;
+    margin: 20px auto;
+    font-weight: lighter;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #a68150;
+}
+
+.navigation a:hover{
+    color: #d1ab77;
+}
+
+.navigation li{
+    padding: 20px;
+    font-family: Oswald, sans-serif;
+}
+
+.thumbnail {
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    max-width: 900px;
+    vertical-align: middle;
+    display: inline-block
+}
+
+.pages {
+    text-align: center;
+}
+
+.temp-pages {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #a68150;
+}
+
+h1:hover {
+    color: #d1ab77;
+}
+
+/* 2. character styling */
+
+.character-ref {
+    width: 800px;
+    height: 400px;
+    margin: 20px 30px;
+    max-width: 900px;
+}
+
+.character-photo {
+    text-align: center;
+}
+
+/* 3. kingdom styling */
+
+.kingdom-view {
+    width: 800px;
+    height: 600px;
+    margin: 20px 30px;
+    max-width: 900px;
+}
+
+.kingdom-photo {
+    text-align: center;
+}
+
+/* 4. history styling */
+
+
+/* 5. creature styling */
+
+.creature-ref {
+    width: 800px;
+    height: 400px;
+    margin: 20px 30px;
+    max-width: 900px;
+}
+
+.creature-photo {
+    text-align: center;
+}
